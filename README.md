@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> ʜᴇʟʟᴏ ᴡᴏʀʟᴅ <img src="https://media.giphy.com/media/RhjjSxRsHf2EC4OMrr/source.gif" width="37px" style="vertical-align:bottom"></h1>
+  <h1> Hello World <img src="https://media.giphy.com/media/kaIJGG8lNC3u5DM3tg/source.gif" width="37px" style="vertical-align:bottom;"></h1>
 </div>
 
 <p align='center'>
@@ -12,9 +12,9 @@
 <a href="https://www.facebook.com/thn.trinity"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/facebook.png?raw=true"></a>&nbsp;&nbsp;
 
 <div align="center">
-<h3> 👩🏻 𝚃𝚛𝚒𝚗𝚒𝚝𝚢 𝙽𝚐𝚞𝚢𝚎𝚗 | 👩🏻‍💻 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛 | 🌏 𝙲𝚊𝚕𝚒𝚏𝚘𝚛𝚗𝚒𝚊, 𝚄𝚂𝙰 </h3>
+<h3> 👩🏻 Trinity Nguyen | 👩🏻‍💻 Software Engineer | 🌏 California, USA </h3>
 </div>
-s
+
 ### :octocat: About me
 
 - 🔭 I’m currently working on something cool.
