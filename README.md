@@ -30,9 +30,9 @@
 
 - 🔨 <a href="https://medium.com/swlh/2020-complete-setup-for-storybook-nextjs-typescript-scss-and-jest-1c9ce41e6481?source=friends_link&sk=0ea6d7518f60e2921849876e696b1693s">2020 Complete Setup for Storybook, Nextjs, Typescript, SCSS and Jest</a>
 
-✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
-
 <div align="center">
+
+✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trinwin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
