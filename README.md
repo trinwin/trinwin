@@ -1,13 +1,13 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <p align='center'>
-<a href="https://www.linkedin.com/in/trinwin/"><img height="30" src="./icons/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/_trinwin"><img height="30" src="./icons/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://medium.com/@trinwin"><img height="30" src="./icons/medium.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://dev.to/trinwin"><img height="30" src="./icons/devto.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://unsplash.com/@trinwin"><img height="30" src="./icons/unsplash.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://instagram.com/trinwin.dev"><img height="30" src="./icons/instagram.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.facebook.com/thn.trinity"><img height="30" src="./icons/facebook.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/trinwin/"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/_trinwin"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://medium.com/@trinwin"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/medium.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://dev.to/trinwin"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/devto.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://unsplash.com/@trinwin"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/unsplash.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://instagram.com/trinwin.dev"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/instagram.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/thn.trinity"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/facebook.png?raw=true"></a>&nbsp;&nbsp;
 
 ### :octocat: About me
 
