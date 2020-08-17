@@ -7,7 +7,7 @@
 <a href="https://www.buymeacoffee.com/trinwin"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/by-me-a-coffee.png?raw=true"></a>
 <a href="https://www.linkedin.com/in/trinwin/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 
-## :octocat: About me
+### :octocat: About me
 
 - 🔭 I’m currently working on something cool
 - 🌱 I’m currently learning web animations.
@@ -15,17 +15,13 @@
 - 🤔 I’m looking for help with technical interview
 - 💬 Ask me about internship, tech, Tesla, Roku, Vidbase, anything.
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I'm a perfectionist
+- ⚡ Fun fact: I'm a perfectionists
 
-<!-- ![](https://komarev.com/ghpvc/?username=trinwin)
-
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) -->
-
-<!-- ![Profile views](https://gpvc.arturio.dev/trinwin) -->
-
-## 📕 **Latest Blog Posts**
+### 📕 Latest Blog Posts
 
 - ⚙️ <a href="https://medium.com/swlh/2020-complete-setup-for-storybook-nextjs-typescript-scss-and-jest-1c9ce41e6481?source=friends_link&sk=0ea6d7518f60e2921849876e696b1693s">2020 Complete Setup for Storybook, Nextjs, Typescript, SCSS and Jest</a>
+
+✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trinwin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
