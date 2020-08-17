@@ -1,4 +1,6 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<div align="center">
+  <h1> Hello World <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
+</div>
 
 <p align='center'>
 <a href="https://www.linkedin.com/in/trinwin/"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/linkedin.png?raw=true"></a>&nbsp;&nbsp;
@@ -9,9 +11,11 @@
 <a href="https://instagram.com/trinwin.dev"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/instagram.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.facebook.com/thn.trinity"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/facebook.png?raw=true"></a>&nbsp;&nbsp;
 
-### :octocat: About me
-
+<div align="center">
 `👩🏻 Trinity Nguyen` | `👩🏻‍💻 Software Engineer` | `🌏 California, USA`
+</div>
+
+### :octocat: About me
 
 - 🔭 I’m currently working on something cool.
 - 🌱 I’m currently learning web `animations`.
