@@ -23,7 +23,7 @@
 - 🤔 I’m looking for help with `technical interview`.
 - 💬 Ask me about `CS`, `internship`, `web dev`, `Tesla`, `Roku`, `Vidbase` ... ❓☞ [here](https://github.com/trinwin/trinwin/issues).
 - 👩🏻 Pronouns: `she/her`
-- ⚡ Fun fact: I'm a `perfectionis`t 🤔
+- ⚡ Fun fact: I'm a `perfectionist` 🤔
 - 💭 Feel free to `DM` to me. I would love to talk to you 🌟
 
 ### 📕 Latest Blog Posts
