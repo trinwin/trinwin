@@ -7,21 +7,21 @@
 <a href="https://twitter.com/_trinwin"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://medium.com/@trinwin"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/medium.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://dev.to/trinwin"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/devto.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://unsplash.com/@trinwin"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/unsplash.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://instagram.com/trinwin.dev"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/instagram.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://unsplash.com/@trinwin"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/unsplash.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.facebook.com/thn.trinity"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/facebook.png?raw=true"></a>&nbsp;&nbsp;
 
 <div align="center">
-<h3> 👩🏻 𝕋𝕣𝕚𝕟𝕚𝕥𝕪 ℕ𝕘𝕦𝕪𝕖𝕟 | 👩🏻‍💻 𝕊𝕠𝕗𝕥𝕨𝕒𝕣𝕖 𝔼𝕟𝕘𝕚𝕟𝕖𝕖𝕣 | 🌏 ℂ𝕒𝕝𝕚𝕗𝕠𝕣𝕟𝕚𝕒, 𝕌𝕊𝔸 </h3>
+<h3> 👩🏻 𝚃𝚛𝚒𝚗𝚒𝚝𝚢 𝙽𝚐𝚞𝚢𝚎𝚗 | 👩🏻‍💻 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛 | 🌏 𝙲𝚊𝚕𝚒𝚏𝚘𝚛𝚗𝚒𝚊, 𝚄𝚂𝙰 </h3>
 </div>
-
+s
 ### :octocat: About me
 
 - 🔭 I’m currently working on something cool.
-- 🌱 I’m currently learning web `animations`.
+- 🌱 I’m currently learning `Typescript`, `Nextjs`, `web animations`.
 - 👯 I’m looking to collaborate on create cool `websites`.
-- 🤔 I’m looking for help with technical interview.
-- 💬 Ask me about `CS`, `internship`, `tech`, `Tesla`, `Roku`, `Vidbase`, `anything`.
+- 🤔 I’m looking for help with `technical interview`.
+- 💬 Ask me about `CS`, `internship`, `web dev`, `Tesla`, `Roku`, `Vidbase` ... ❓☞ [here](https://github.com/trinwin/trinwin/issues).
 - 👩🏻 Pronouns: `she/her`
 - ⚡ Fun fact: I'm a `perfectionis`t 🤔
 - 💭 Feel free to `DM` to me. I would love to talk to you 🌟
