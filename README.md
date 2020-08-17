@@ -1,27 +1,32 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <p align='center'>
-<a href="https://dev.to/trinwin"><img height="30" src="https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/dev.png"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/_trinwin"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://instagram.com/trinwin"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.buymeacoffee.com/trinwin"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/by-me-a-coffee.png?raw=true"></a>
-<a href="https://www.linkedin.com/in/trinwin/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+<a href="https://www.linkedin.com/in/trinwin/"><img height="30" src="./icons/linkedin.png"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/_trinwin"><img height="30" src="./icons/twitter.png"></a>&nbsp;&nbsp;
+<a href="https://medium.com/@trinwin"><img height="30" src="./icons/medium.png"></a>&nbsp;&nbsp;
+<a href="https://dev.to/trinwin"><img height="30" src="./icons/devto.png"></a>&nbsp;&nbsp;
+<a href="https://unsplash.com/@trinwin"><img height="30" src="./icons/unsplash.jpeg"></a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/thn.trinity"><img height="30" src="./icons/facebook.png"></a>&nbsp;&nbsp;
+<a href="https://instagram.com/trinwin.dev"><img height="30" src="./icons/instagram.png"></a>&nbsp;&nbsp;
 
 ### :octocat: About me
 
-- 🔭 I’m currently working on something cool
-- 🌱 I’m currently learning web animations.
-- 👯 I’m looking to collaborate on create cool websites
-- 🤔 I’m looking for help with technical interview
-- 💬 Ask me about internship, tech, Tesla, Roku, Vidbase, anything.
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I'm a perfectionists
+`👩🏻 Trinity Nguyen` | `👩🏻‍💻 Software Engineer` | `🌏 California, USA`
+
+- 🔭 I’m currently working on something cool.
+- 🌱 I’m currently learning web `animations`.
+- 👯 I’m looking to collaborate on create cool `websites`.
+- 🤔 I’m looking for help with technical interview.
+- 💬 Ask me about `CS`, `internship`, `tech`, `Tesla`, `Roku`, `Vidbase`, `anything`.
+- 👩🏻 Pronouns: `she/her`
+- ⚡ Fun fact: I'm a `perfectionis`t 🤔
+- 💭 Feel free to `DM` to me. I would love to talk to you 🌟
 
 ### 📕 Latest Blog Posts
 
 - ⚙️ <a href="https://medium.com/swlh/2020-complete-setup-for-storybook-nextjs-typescript-scss-and-jest-1c9ce41e6481?source=friends_link&sk=0ea6d7518f60e2921849876e696b1693s">2020 Complete Setup for Storybook, Nextjs, Typescript, SCSS and Jest</a>
 
-✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
+✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trinwin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
