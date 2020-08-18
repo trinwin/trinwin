@@ -9,7 +9,7 @@
 <a href="https://dev.to/trinwin"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/devto.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://instagram.com/trinwin.dev"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/instagram.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://unsplash.com/@trinwin"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/unsplash.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.facebook.com/thn.trinity"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/facebook.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/trinnwin"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/facebook.png?raw=true"></a>&nbsp;&nbsp;
 
 <div align="center">
 <h3> 👩🏻 Trinity Nguyen | 👩🏻‍💻 Software Engineer | 🌏 California, USA </h3>
