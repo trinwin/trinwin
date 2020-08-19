@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> Hello World <img src="https://media.giphy.com/media/kaIJGG8lNC3u5DM3tg/source.gif" width="37px" style="vertical-align:bottom;"></h1>
+  <h1> Hello World <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 </div>
 
 <p align='center'>
@@ -25,6 +25,9 @@
 - 👩🏻 Pronouns: `she/her`
 - ⚡ Fun fact: I'm a `perfectionist` 🤔
 - 💭 Feel free to `DM` to me. I would love to talk to you 🌟
+- ⚡ Join [lunchclub](https://lunchclub.com/?invite_code=trinityn1) to meet `professionals`, and we might have a chance to meet each other.
+- 🌐 Join [Remote Students](https://remotestudents.co/signup?access_code=3xMwLbisP6cuO3eLcTvE3Kz8XoG2) to meet a community of thousands of `college students` and get access to unique remote work opportunities, resources, and advice from experts in your roles of interest.
+
 
 ### 📕 Latest Blog Posts
 
@@ -35,8 +38,8 @@
 ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trinwin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Trinity's github stats](https://github-readme-stats.vercel.app/api/?username=trinwin&show_icons=true&title_color=1F75C8&icon_color=2AA410&text_color=043667&bg_color=ffffff) 
 
-![Trinity's github stats](https://github-readme-stats.vercel.app/api/?username=trinwin&show_icons=true&title_color=1F75C8&icon_color=2AA410&text_color=043667&bg_color=ffffff)
 
 </div>
 <!--
