@@ -17,19 +17,21 @@
 
 ### :octocat: About me
 
-- 🔭 I’m currently working on something cool.
-- 🌱 I’m currently learning `Typescript`, `Nextjs`, `web animations`.
-- 👯 I’m looking to collaborate on create cool `websites`.
-- 🤔 I’m looking for help with `technical interview`.
-- 💬 Ask me about `CS`, `internship`, `web dev`, `Tesla`, `Roku`, `Vidbase` ... ❓☞ [here](https://github.com/trinwin/trinwin/issues).
 - 👩🏻 Pronouns: `she/her`
-- ⚡ Fun fact: I'm a `perfectionist` 🤔
-- 💭 Feel free to `DM` to me. I would love to talk to you 🌟
+- 🎖 Completed 3 tech internships at [Hinwin/Vidbase](https://vidbase.co/) 🎥, [Tesla](https://www.tesla.com/) 🚗 and [Roku](https://www.roku.com/) 📺
+- 🔭 Currently working on something cool.
+- 🌱 Learning `Typescript`, `Nextjs`, `web animations`.
+- 👯 Let's collaborate on create cool `websites`.
+- 🤔 Need some help with `technical interview`.
+- 💬 Ask me about `CS`, `internship`, `web dev`, `Tesla`, `Roku`, `Vidbase` ... ❓☞ [here](https://github.com/trinwin/trinwin/issues).
 - ⚡ Join [lunchclub](https://lunchclub.com/?invite_code=trinityn1) to meet `professionals`, and we might have a chance to meet each other.
 - 🌐 Join [Remote Students](https://remotestudents.co/signup?access_code=3xMwLbisP6cuO3eLcTvE3Kz8XoG2) to meet a community of thousands of `college students` and get access to unique remote work opportunities, resources, and advice from experts in your roles of interest.
+- ⚡ Fun fact: I'm a `perfectionist` 🤔
+- 🩸 9th time `blood donor`.
+- 💭 Let's get to know each other 🌟
 
 
-### 📕 Latest Blog Posts
+### 📕 Checkout my Blog Posts on [Medium](https://medium.com/@trinwin) & [Dev.to](https://dev.to/trinwin)
 
 - 🔨 <a href="https://medium.com/swlh/2020-complete-setup-for-storybook-nextjs-typescript-scss-and-jest-1c9ce41e6481?source=friends_link&sk=0ea6d7518f60e2921849876e696b1693s">2020 Complete Setup for Storybook, Nextjs, Typescript, SCSS and Jest</a>
 
