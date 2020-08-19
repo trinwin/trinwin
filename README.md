@@ -25,7 +25,7 @@
 - 🤔 Need some help with `technical interview`.
 - 💬 Ask me about `CS`, `internship`, `web dev`, `Tesla`, `Roku`, `Vidbase` ... ❓☞ [here](https://github.com/trinwin/trinwin/issues).
 - ⚡ Join [lunchclub](https://lunchclub.com/?invite_code=trinityn1) to meet `professionals`, and we might have a chance to meet each other.
-- 🌐 Join [Remote Students](https://remotestudents.co/signup?access_code=3xMwLbisP6cuO3eLcTvE3Kz8XoG2) to meet a community of thousands of `college students` and get access to unique remote work opportunities, resources, and advice from experts in your roles of interest.
+- 🌐 Join [Remote Students](https://remotestudents.co/signup?access_code=3xMwLbisP6cuO3eLcTvE3Kz8XoG2) to meet a community of thousands of `college students`.
 - ⚡ Fun fact: I'm a `perfectionist` 🤔
 - 🩸 9th time `blood donor`.
 - 💭 Let's get to know each other 🌟
