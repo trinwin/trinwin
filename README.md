@@ -15,7 +15,7 @@
 <h3> 👩🏻 Trinity Nguyen | 👩🏻‍💻 Software Engineer | 🌏 California, USA </h3>
 </div>
 
-### :octocat: About me
+### :octocat: About me 
 
 - 👩🏻 Pronouns: `she/her`
 - 🎖 Completed 3 tech internships at [Hinwin/Vidbase](https://vidbase.co/) 🎥, [Tesla](https://www.tesla.com/) 🚗 and [Roku](https://www.roku.com/) 📺
