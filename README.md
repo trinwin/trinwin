@@ -17,7 +17,7 @@
 
 ### :octocat: About me 
 
-- 👩🏻 Pronouns: `she/her`
+- 👩🏻 Pronouns: `she/her` 
 - 🎖 Completed 3 tech internships at [Vidbase](https://vidbase.co/) 🎥, [Tesla](https://www.tesla.com/) 🚗 and [Roku](https://www.roku.com/) 📺
 - 🔭 Currently working on something cool.
 - 🌱 Learning `Typescript`, `Nextjs`, `web animations`.
