@@ -19,17 +19,17 @@
 
 - 👩🏻 Pronouns: `she/her` 
 - 🎖 Completed 3 tech internships at [Vidbase](https://vidbase.co/) 🎥, [Tesla](https://www.tesla.com/) 🚗 and [Roku](https://www.roku.com/) 📺
-- 🔭 Currently working on something cool.
+- 👀 Want to learn how ❓ I talk about all things tech related [here](https://www.instagram.com/trinwin.dev/) 🌈
+- 🔭 Currently working on building `personal branding` and making a small `difference` 💌.
 - 🌱 Learning `Typescript`, `Nextjs`, `web animations`.
-- 👯 Let's collaborate on create cool `websites`.
 - 🤔 Need some help with `technical interview`.
-- 💬 Ask me about `CS`, `internship`, `web dev`, `Tesla`, `Roku`, `Vidbase` ... ❓☞ [here](https://github.com/trinwin/trinwin/issues).
-- ⚡ Join [lunchclub](https://lunchclub.com/?invite_code=trinityn1) to meet `professionals`, and we might have a chance to meet each other.
-- 🌐 Join [Remote Students](https://remotestudents.co/signup?access_code=3xMwLbisP6cuO3eLcTvE3Kz8XoG2) to meet a community of thousands of `college students`.
-- ⚡ Fun fact: I'm a `perfectionist` 🤔
-- 🩸 9th time `blood donor`.
+- 💬 Ask me about `CS`, `internship`, `web dev`, `Tesla`, `Roku`, `Vidbase` ... ❓☞ [here](https://www.instagram.com/trinwin.dev/).
+- ⚡ Fun fact: I'm 9th time `blood donor` 🩸.
 - 💭 Let's get to know each other 🌟
 
+### 📬 People find me [here](https://www.instagram.com/trinwin.dev/) 🌿
+
+### 💡 Want to know what's I'm working on ❓❗️ Click [here](https://www.instagram.com/trinwin.dev/) 💎
 
 ### 📕 Checkout my Blog Posts on [Medium](https://medium.com/@trinwin) & [Dev.to](https://dev.to/trinwin)
 
