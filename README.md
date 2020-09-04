@@ -15,7 +15,7 @@
 <h3> 👩🏻 Trinity Nguyen | 👩🏻‍💻 Software Engineer | 🌏 California, USA </h3>
 </div>
 
-### :octocat: About me 
+### About me 
 
 - 🎖 Completed 3 tech internships at [Vidbase](https://vidbase.co/), [Tesla](https://www.tesla.com/) and [Roku](https://www.roku.com/) 
 - 👀 I talk about all things tech related [here](https://www.instagram.com/trinwin.dev/) 
@@ -25,7 +25,7 @@
 - ⚡ Fun fact: I'm 9th time `blood donor`.
 - 💭 Let's get to know each other 
 
-### 📕 Checkout my Blog Posts on [Medium](https://medium.com/@trinwin) & [Dev.to](https://dev.to/trinwin)
+### Checkout my Blog Posts on [Medium](https://medium.com/@trinwin) & [Dev.to](https://dev.to/trinwin)
 
 - 🔨 <a href="https://medium.com/swlh/2020-complete-setup-for-storybook-nextjs-typescript-scss-and-jest-1c9ce41e6481?source=friends_link&sk=0ea6d7518f60e2921849876e696b1693s">2020 Complete Setup for Storybook, Nextjs, Typescript, SCSS and Jest</a>
 
