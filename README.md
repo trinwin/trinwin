@@ -12,7 +12,7 @@
 <a href="https://www.facebook.com/trinnwin"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/facebook.png?raw=true"></a>&nbsp;&nbsp;
 
 <div align="center">
-<h3> 👩🏻 Trinity Nguyen | 👩🏻‍💻 Software Engineer | 🌏 California, USA </h3>
+<h3> 👩🏻 Trinity Nguyen | 👩🏻‍💻 Software Engineer | 🌏 California, USA </h3> 
 </div>
 
 ### About me 
