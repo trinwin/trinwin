@@ -19,7 +19,7 @@
 
 - 🎖 Completed 3 tech internships at [Vidbase](https://vidbase.co/), [Tesla](https://www.tesla.com/) and [Roku](https://www.roku.com/) 
 - 👀 I talk about all things tech related [here](https://www.instagram.com/trinwin.dev/) 
-- 🌱 Learning `Fullstack Web Development`.
+- 🌱 Learning `Fullstack Web Development`. 
 - 🤔 Need some help with `technical interview`.
 - 💬 Ask me about anything ☞ [here](https://www.instagram.com/trinwin.dev/).
 - ⚡ Fun fact: I'm 9th time `blood donor`.
