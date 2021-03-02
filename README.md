@@ -17,6 +17,7 @@
 
 ### About me 
 
+_  Start Apple SWE Internship in Summer 2021 
 - 🎖 Completed 3 tech internships at [Vidbase](https://vidbase.co/), [Tesla](https://www.tesla.com/) and [Roku](https://www.roku.com/) 
 - 👀 I talk about all things tech related [here](https://www.instagram.com/trinwin.dev/) 
 - 🌱 Learning `Fullstack Web Development`. 
